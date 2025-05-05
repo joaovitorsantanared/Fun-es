@@ -20,3 +20,5 @@ print(valor)
 funcao(5,7,10)
 
 literatura("olá mundo")
+
+numericos([10,12,12,31,4,4,5,31,6,7,6,8])
