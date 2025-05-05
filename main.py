@@ -10,3 +10,13 @@ contagem(8)
 contagem(9)
 
 palavras("Pelo sport nada")
+
+produto("Feijão", 10, 8.50)
+
+valor = algarismo(10)
+
+print(valor)
+
+funcao(5,7,10)
+
+literatura("olá mundo")
